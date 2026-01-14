@@ -115,9 +115,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## 📞 Contact
 
-For any queries or feedback, reach out via:
-
-- GitHub: [ShrihariKasar](https://github.com/ShrihariKasar)
-- Email: shreeharikasar@gmail.com
